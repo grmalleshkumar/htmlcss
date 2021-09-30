@@ -1,0 +1,19 @@
+body {
+    margin: 10px;
+}
+
+p {
+    color: orange;
+}
+
+#products {
+
+}
+
+.product {
+
+}
+
+a[href^=https] {
+    color: orange;
+}
