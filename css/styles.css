@@ -2,18 +2,18 @@ body {
     margin: 10px;
 }
 
-p {
+/* p {
     color: orange;
-}
+} */
 
-#products {
-
+#products ~ p{
+    color: olive
 }
 
 .product {
 
 }
 
-a[href^=https] {
+a[href^="https"][href$=".com"] {
     color: orange;
 }
